@@ -1,0 +1,134 @@
+{
+  "project_info": {
+    "project_number": "922953431526",
+    "project_id": "heaven-on-this-e-1673398261366",
+    "storage_bucket": "heaven-on-this-e-1673398261366.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922953431526:android:757ee3dfded83955f8fe27",
+        "android_client_info": {
+          "package_name": "com.heavenonthisearth.heavenonthisearth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922953431526-14d16hvkd168uoqe5usds722mb7e129v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6mSq05bT2Hbvn2W0q3B_8xkMct8UuOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922953431526-14d16hvkd168uoqe5usds722mb7e129v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922953431526-rt6l6saraedrj6hssh3gkriktu729vvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heavenonthisearth.heavenonthisearth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922953431526:android:67a92e49c93aa885f8fe27",
+        "android_client_info": {
+          "package_name": "com.heavenonthisearth.starwish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922953431526-cum1u30k58om3it9vu4grd3khup32hcc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heavenonthisearth.starwish",
+            "certificate_hash": "e9285bb9f62eb95d9a60cca3d3eb2fe53551146c"
+          }
+        },
+        {
+          "client_id": "922953431526-tv553i66rbvd309ktfuo1prajmgh6ukb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.heavenonthisearth.starwish",
+            "certificate_hash": "c309cfd2d2fffc93a1dce3685655b49e8a0bb963"
+          }
+        },
+        {
+          "client_id": "922953431526-14d16hvkd168uoqe5usds722mb7e129v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6mSq05bT2Hbvn2W0q3B_8xkMct8UuOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922953431526-14d16hvkd168uoqe5usds722mb7e129v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922953431526-rt6l6saraedrj6hssh3gkriktu729vvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heavenonthisearth.heavenonthisearth"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:922953431526:android:cf2d977acd4b41edf8fe27",
+        "android_client_info": {
+          "package_name": "com.starwish.story_image_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "922953431526-14d16hvkd168uoqe5usds722mb7e129v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAz6mSq05bT2Hbvn2W0q3B_8xkMct8UuOU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "922953431526-14d16hvkd168uoqe5usds722mb7e129v.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "922953431526-rt6l6saraedrj6hssh3gkriktu729vvh.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.heavenonthisearth.heavenonthisearth"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
